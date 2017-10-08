@@ -24,7 +24,7 @@ Last update: 10/08/2017
  
  #### [ICPR: International Conference on Pattern Recognition](http://www.24icpr2017.put.poznan.pl/)
  
-  - Latest: July 30-August 31, 2017
+  - Latest: July 30-August 3, 2017
  
  #### [BMVC: British Machine Vision Conference](https://bmvc2017.london/)
 

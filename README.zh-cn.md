@@ -8,27 +8,27 @@
 
  #### [ICCV: International Conference on Computer Vision](http://iccv2017.thecvf.com/)
 
-  - Latest: October 22-29, 2017
+  - 最近更新: 2017年10月22-29日
 
  #### [CVPR: International Conference on Computer Vision and Pattern Recognition](http://cvpr2017.thecvf.com/)
 
-  - Latest: July 21-26, 2017
+  - 最近更新: 2017年7月21-26日
 
  #### [ECCV: European Conference on Computer Vision](http://www.eccv2016.org/)
 
- - Latest: October 8-16, 2016
+ - 最近更新: 2016年10月8-16日
 
  #### [ACCV: Asian Conference on Computer Vision](http://www.accv2016.org/)
 
-  - Latest: November 20-24, 2016
+  - 最近更新: 2016年11月20-24日
 
  #### [ICPR: International Conference on Pattern Recognition](http://www.24icpr2017.put.poznan.pl/)
 
-  - Latest: July 30-August 31, 2017
+  - 最近更新: 2017年7月30日-8月3日
 
  #### [BMVC: British Machine Vision Conference](https://bmvc2017.london/)
 
-  - Latest: September 4-7, 2017
+  - 最近更新: 2017年9月4-7日
 
 ## 杂志
 
